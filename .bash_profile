@@ -1,6 +1,7 @@
 eval "$(nodenv init -)"
 
 alias icloud="cd ~/Library/Mobile\ Documents/com~apple~CloudDocs/"
+alias ll="ls -lah"
 
 export BASH_SILENCE_DEPRECATION_WARNING=1
 
