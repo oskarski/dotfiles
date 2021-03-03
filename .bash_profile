@@ -7,6 +7,8 @@ alias grs="git rebase --skip"
 alias gca="git commit --amend"
 alias gs="git status"
 alias ga="git add ."
+alias gst="git stash"
+alias gsta="git stash apply"
 
 export BASH_SILENCE_DEPRECATION_WARNING=1
 
