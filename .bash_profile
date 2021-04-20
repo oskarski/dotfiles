@@ -1,3 +1,5 @@
+export PATH="/opt/homebrew/opt/postgresql@11/bin:$PATH"
+eval "$(/opt/homebrew/bin/brew shellenv)"
 eval "$(nodenv init -)"
 
 alias icloud="cd ~/Library/Mobile\ Documents/com~apple~CloudDocs/"
